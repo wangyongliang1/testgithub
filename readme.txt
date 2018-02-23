@@ -5,4 +5,4 @@ hallo git
 git dev
 Creating a new branch is quick and simple.
 test remote
-
+Git can merge branches.
